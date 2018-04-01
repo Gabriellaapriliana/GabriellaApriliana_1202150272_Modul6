@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "448707343217",
+    "firebase_url": "https://gabriellaapriliana1202150272.firebaseio.com",
+    "project_id": "gabriellaapriliana1202150272",
+    "storage_bucket": "gabriellaapriliana1202150272.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448707343217:android:193d8e3c18200788",
+        "android_client_info": {
+          "package_name": "id.odt.GabriellaApriliana_1202150240_modul6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448707343217-b848kbtni6ntg40dv9det0tm2v90a2gk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.odt.GabriellaApriliana_1202150240_modul6",
+            "certificate_hash": "722d04faa28448b3126f7b3e3657c76a24c5b87b"
+          }
+        },
+        {
+          "client_id": "448707343217-id2c512qmodah1p9fo3h7a64klhsvtqg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUDAmUGX1I3BdquKiCOEYF76d1QCs8Vz0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448707343217-id2c512qmodah1p9fo3h7a64klhsvtqg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
